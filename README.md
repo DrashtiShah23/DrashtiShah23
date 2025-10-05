@@ -1,4 +1,4 @@
-![](github-header-banner drashti.png)
+![](github-header-banner_drashti.png)
 
 ## 👩‍💻 About Me
 
