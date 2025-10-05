@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-I bring 3+ years of **software development experience** into the world of **data analytics and machine learning**. Now pursuing my **Master’s in Data Science, I focus on bridging code and data to create impactful, data-driven solutions.
+I bring 3+ years of **software development experience** into the world of **data analytics and machine learning**. Now pursuing my **Master’s in Data Science**, I focus on bridging code and data to create impactful, data-driven solutions.
 
 ---
 
