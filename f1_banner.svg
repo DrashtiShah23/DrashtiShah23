@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <rect width="1400" height="420" fill="#080a0d"/>
+  <g opacity="0.12" stroke="#8cf3ff" stroke-width="1">
+    <path d="M0 70H1400M0 140H1400M0 210H1400M0 280H1400M0 350H1400"/>
+    <path d="M100 0V420M200 0V420M300 0V420M400 0V420M500 0V420M600 0V420M700 0V420M800 0V420M900 0V420M1000 0V420M1100 0V420M1200 0V420M1300 0V420"/>
+  </g>
+
+  <rect x="34" y="34" width="1332" height="352" rx="24" fill="#0c0f13" stroke="#252a31"/>
+
+  <rect x="70" y="70" width="12" height="92" rx="6" fill="#d9ff5b"/>
+  <text x="112" y="112" fill="#f6f4ec" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800">DRASHTI SHAH</text>
+  <text x="114" y="152" fill="#91a0ad" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">RACE CONTROL // DATA + AI SYSTEMS</text>
+
+  <g transform="translate(112,208)">
+    <rect width="250" height="112" rx="16" fill="#11161b" stroke="#283039"/>
+    <text x="22" y="28" fill="#91a0ad" font-family="Arial" font-size="12" letter-spacing="2">PRIMARY MODE</text>
+    <text x="22" y="64" fill="#f6f4ec" font-family="Arial" font-size="23" font-weight="700">DATA ENGINEERING</text>
+    <circle cx="224" cy="25" r="6" fill="#d9ff5b"/>
+    <text x="22" y="92" fill="#d9ff5b" font-family="Arial" font-size="12">STATUS GREEN</text>
+  </g>
+
+  <g transform="translate(384,208)">
+    <rect width="250" height="112" rx="16" fill="#11161b" stroke="#283039"/>
+    <text x="22" y="28" fill="#91a0ad" font-family="Arial" font-size="12" letter-spacing="2">SECONDARY MODE</text>
+    <text x="22" y="64" fill="#f6f4ec" font-family="Arial" font-size="23" font-weight="700">AI SYSTEMS</text>
+    <circle cx="224" cy="25" r="6" fill="#8cf3ff"/>
+    <text x="22" y="92" fill="#8cf3ff" font-family="Arial" font-size="12">ACTIVE</text>
+  </g>
+
+  <g transform="translate(656,208)">
+    <rect width="250" height="112" rx="16" fill="#11161b" stroke="#283039"/>
+    <text x="22" y="28" fill="#91a0ad" font-family="Arial" font-size="12" letter-spacing="2">RESEARCH MODE</text>
+    <text x="22" y="64" fill="#f6f4ec" font-family="Arial" font-size="23" font-weight="700">EMBODIED AI</text>
+    <circle cx="224" cy="25" r="6" fill="#f6b94b"/>
+    <text x="22" y="92" fill="#f6b94b" font-family="Arial" font-size="12">CURRENT LAP</text>
+  </g>
+
+  <g transform="translate(928,208)">
+    <rect width="360" height="112" rx="16" fill="#11161b" stroke="#283039"/>
+    <text x="22" y="28" fill="#91a0ad" font-family="Arial" font-size="12" letter-spacing="2">CAR TELEMETRY</text>
+    <text x="22" y="62" fill="#f6f4ec" font-family="Arial" font-size="21" font-weight="700">SAN JOSE // CAR 23</text>
+    <text x="22" y="91" fill="#91a0ad" font-family="Arial" font-size="13">BUILD · MEASURE · VALIDATE · SHIP</text>
+  </g>
+
+  <text x="1182" y="95" fill="#d9ff5b" font-family="Arial" font-size="74" font-weight="800" opacity="0.18">23</text>
+</svg>
