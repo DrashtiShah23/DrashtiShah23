@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="360" viewBox="0 0 680 360">
+<defs>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#C99BFF" stop-opacity=".85"/>
+    <stop offset="100%" stop-color="#C99BFF" stop-opacity=".08"/>
+  </linearGradient>
+</defs>
+<rect width="680" height="360" rx="24" fill="#0A0F14"/>
+<rect x="1" y="1" width="678" height="358" rx="23" fill="none" stroke="#34424D" stroke-width="2"/>
+<rect x="0" y="0" width="9" height="360" rx="4" fill="#C99BFF"/>
+<path d="M36 58H644" stroke="#293640"/>
+<text x="36" y="42" font-family="Arial" font-size="15" font-weight="800" letter-spacing="3" fill="#C99BFF">P04</text>
+<text x="530" y="42" font-family="Arial" font-size="12" font-weight="700" letter-spacing="2" fill="#C99BFF">LIVE</text>
+<text x="36" y="112" font-family="Arial" font-size="30" font-weight="800" fill="#F4F7FA">ENGINEERING</text>
+<text x="36" y="150" font-family="Arial" font-size="30" font-weight="800" fill="#F4F7FA">PORTFOLIO</text>
+<rect x="36" y="184" width="608" height="1" fill="#293640"/>
+<text x="36" y="220" font-family="Arial" font-size="12" font-weight="700" letter-spacing="3" fill="#81909D">MODE</text>
+<text x="36" y="250" font-family="Arial" font-size="19" font-weight="700" fill="#F4F7FA">SYSTEM DESIGN</text>
+<text x="36" y="293" font-family="Arial" font-size="14" fill="#AAB6C0">Architecture · APIs · failure models</text>
+<text x="36" y="321" font-family="Arial" font-size="14" fill="#AAB6C0">Technical storytelling · Netlify</text>
+<path d="M500 336H644" stroke="url(#edge)" stroke-width="4" stroke-linecap="round"/>
+</svg>

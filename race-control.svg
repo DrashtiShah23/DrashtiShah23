@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#070A0E"/>
+    <stop offset="100%" stop-color="#111820"/>
+  </linearGradient>
+  <linearGradient id="lime" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#D9FF5B"/>
+    <stop offset="100%" stop-color="#8CFF73"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1400" height="560" fill="url(#bg)"/>
+<g opacity=".10" stroke="#91A0AE">
+  <path d="M0 70H1400M0 140H1400M0 210H1400M0 280H1400M0 350H1400M0 420H1400M0 490H1400"/>
+  <path d="M100 0V560M200 0V560M300 0V560M400 0V560M500 0V560M600 0V560M700 0V560M800 0V560M900 0V560M1000 0V560M1100 0V560M1200 0V560M1300 0V560"/>
+</g>
+<path d="M40 46H1360" stroke="#394550" stroke-width="2"/>
+<path d="M40 514H1360" stroke="#394550" stroke-width="2"/>
+<rect x="55" y="74" width="10" height="155" rx="5" fill="url(#lime)" filter="url(#glow)"/>
+<text x="95" y="130" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" fill="#F4F7FA">DRASHTI SHAH</text>
+<text x="98" y="174" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" letter-spacing="5" fill="#9BA9B5">RACE ENGINEERING // DATA + AI SYSTEMS</text>
+<text x="98" y="214" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#667887">SAN JOSE, CALIFORNIA</text>
+
+<g transform="translate(1080,80)">
+  <circle cx="14" cy="14" r="9" fill="#D9FF5B" filter="url(#glow)"/>
+  <text x="38" y="20" font-family="Arial" font-size="16" font-weight="700" fill="#D9FF5B">SYSTEM GREEN</text>
+  <text x="78" y="125" font-family="Arial" font-size="128" font-weight="900" fill="#D9FF5B" opacity=".16">23</text>
+</g>
+
+<g transform="translate(60,285)">
+  <rect width="300" height="160" rx="18" fill="#0E151C" stroke="#34424D"/>
+  <text x="24" y="33" font-family="Arial" font-size="12" font-weight="700" letter-spacing="3" fill="#8FA0AD">SECTOR 01</text>
+  <text x="24" y="70" font-family="Arial" font-size="25" font-weight="800" fill="#F4F7FA">DATA ENGINEERING</text>
+  <path d="M24 93H270" stroke="#26333C" stroke-width="9" stroke-linecap="round"/>
+  <path d="M24 93H247" stroke="#D9FF5B" stroke-width="9" stroke-linecap="round"/>
+  <text x="24" y="128" font-family="Arial" font-size="13" fill="#9BA9B5">PIPELINES · QUALITY · OBSERVABILITY</text>
+</g>
+
+<g transform="translate(380,285)">
+  <rect width="300" height="160" rx="18" fill="#0E151C" stroke="#34424D"/>
+  <text x="24" y="33" font-family="Arial" font-size="12" font-weight="700" letter-spacing="3" fill="#8FA0AD">SECTOR 02</text>
+  <text x="24" y="70" font-family="Arial" font-size="25" font-weight="800" fill="#F4F7FA">BACKEND SYSTEMS</text>
+  <path d="M24 93H270" stroke="#26333C" stroke-width="9" stroke-linecap="round"/>
+  <path d="M24 93H225" stroke="#66E3FF" stroke-width="9" stroke-linecap="round"/>
+  <text x="24" y="128" font-family="Arial" font-size="13" fill="#9BA9B5">APIS · EVENTS · FAILURE RECOVERY</text>
+</g>
+
+<g transform="translate(700,285)">
+  <rect width="300" height="160" rx="18" fill="#0E151C" stroke="#34424D"/>
+  <text x="24" y="33" font-family="Arial" font-size="12" font-weight="700" letter-spacing="3" fill="#8FA0AD">SECTOR 03</text>
+  <text x="24" y="70" font-family="Arial" font-size="25" font-weight="800" fill="#F4F7FA">AI + ML SYSTEMS</text>
+  <path d="M24 93H270" stroke="#26333C" stroke-width="9" stroke-linecap="round"/>
+  <path d="M24 93H204" stroke="#FFB84D" stroke-width="9" stroke-linecap="round"/>
+  <text x="24" y="128" font-family="Arial" font-size="13" fill="#9BA9B5">RL · EVALUATION · MODEL SERVING</text>
+</g>
+
+<g transform="translate(1020,285)">
+  <rect width="320" height="160" rx="18" fill="#0E151C" stroke="#34424D"/>
+  <text x="24" y="33" font-family="Arial" font-size="12" font-weight="700" letter-spacing="3" fill="#8FA0AD">CURRENT LAP</text>
+  <text x="24" y="70" font-family="Arial" font-size="25" font-weight="800" fill="#F4F7FA">EMBODIED AI</text>
+  <text x="24" y="104" font-family="Arial" font-size="14" fill="#66E3FF">NVIDIA ISAAC SIM</text>
+  <text x="24" y="130" font-family="Arial" font-size="13" fill="#9BA9B5">HUMANOID ROBOTICS · JAX · RL</text>
+</g>
+
+<text x="60" y="495" font-family="Arial" font-size="12" letter-spacing="3" fill="#667887">BUILD // MEASURE // VALIDATE // RECOVER // SHIP</text>
+</svg>

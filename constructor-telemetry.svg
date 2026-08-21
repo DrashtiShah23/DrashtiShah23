@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="250" viewBox="0 0 1400 250">
+<rect width="1400" height="250" rx="24" fill="#0A0F14"/>
+<rect x="1" y="1" width="1398" height="248" rx="23" fill="none" stroke="#34424D" stroke-width="2"/>
+<text x="55" y="50" font-family="Arial" font-size="13" font-weight="700" letter-spacing="4" fill="#8FA0AD">CONSTRUCTOR TELEMETRY // PRODUCTION SIGNAL</text>
+<g font-family="Arial">
+  <g transform="translate(55,82)">
+    <text x="0" y="58" font-size="44" font-weight="800" fill="#D9FF5B">100K+</text>
+    <text x="0" y="88" font-size="13" letter-spacing="2" fill="#9BA9B5">DEVICE FLEET</text>
+  </g>
+  <g transform="translate(325,82)">
+    <text x="0" y="58" font-size="44" font-weight="800" fill="#66E3FF">75+</text>
+    <text x="0" y="88" font-size="13" letter-spacing="2" fill="#9BA9B5">VALIDATION FLOWS</text>
+  </g>
+  <g transform="translate(585,82)">
+    <text x="0" y="58" font-size="44" font-weight="800" fill="#FFB84D">30%</text>
+    <text x="0" y="88" font-size="13" letter-spacing="2" fill="#9BA9B5">FEWER DEPLOYMENT FAILURES</text>
+  </g>
+  <g transform="translate(925,82)">
+    <text x="0" y="58" font-size="44" font-weight="800" fill="#C99BFF">20+ HRS</text>
+    <text x="0" y="88" font-size="13" letter-spacing="2" fill="#9BA9B5">WEEKLY REPORTING AUTOMATED</text>
+  </g>
+</g>
+<path d="M55 205H1345" stroke="#26333C" stroke-width="2"/>
+<path d="M55 205H1120" stroke="#D9FF5B" stroke-width="3"/>
+<circle cx="1120" cy="205" r="7" fill="#D9FF5B"/>
+</svg>
