@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470">
+  <rect width="1400" height="470" fill="#07090c"/>
+  <g opacity="0.12" stroke="#607080" stroke-width="1">
+    <path d="M0 60H1400M0 120H1400M0 180H1400M0 240H1400M0 300H1400M0 360H1400M0 420H1400"/>
+    <path d="M100 0V470M200 0V470M300 0V470M400 0V470M500 0V470M600 0V470M700 0V470M800 0V470M900 0V470M1000 0V470M1100 0V470M1200 0V470M1300 0V470"/>
+  </g>
+
+  <rect x="28" y="28" width="1344" height="414" rx="25" fill="#0b0e12" stroke="#28313a" stroke-width="2"/>
+  <rect x="64" y="66" width="10" height="105" rx="5" fill="#d9ff5b"/>
+
+  <text x="105" y="109" fill="#f7f7f4" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="800">DRASHTI SHAH</text>
+  <text x="108" y="146" fill="#82909d" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3">RACE CONTROL // DATA + AI SYSTEMS</text>
+
+  <circle cx="1130" cy="90" r="8" fill="#d9ff5b"/>
+  <text x="1150" y="97" fill="#d9ff5b" font-family="Arial" font-size="14" font-weight="700">STATUS GREEN</text>
+  <text x="1240" y="164" fill="#d9ff5b" opacity="0.18" font-family="Arial" font-size="100" font-weight="900">23</text>
+
+  <g transform="translate(105,210)">
+    <rect width="250" height="135" rx="16" fill="#11161c" stroke="#303944"/>
+    <text x="20" y="31" fill="#84919d" font-family="Arial" font-size="11" letter-spacing="2">PRIMARY MODE</text>
+    <text x="20" y="68" fill="#f7f7f4" font-family="Arial" font-size="23" font-weight="700">DATA ENGINEERING</text>
+    <rect x="20" y="88" width="185" height="8" rx="4" fill="#1d252d"/>
+    <rect x="20" y="88" width="172" height="8" rx="4" fill="#d9ff5b"/>
+    <text x="20" y="119" fill="#d9ff5b" font-family="Arial" font-size="12">SECTOR ACTIVE</text>
+  </g>
+
+  <g transform="translate(375,210)">
+    <rect width="250" height="135" rx="16" fill="#11161c" stroke="#303944"/>
+    <text x="20" y="31" fill="#84919d" font-family="Arial" font-size="11" letter-spacing="2">ATTACK MODE</text>
+    <text x="20" y="68" fill="#f7f7f4" font-family="Arial" font-size="23" font-weight="700">AI SYSTEMS</text>
+    <rect x="20" y="88" width="185" height="8" rx="4" fill="#1d252d"/>
+    <rect x="20" y="88" width="160" height="8" rx="4" fill="#70e8ff"/>
+    <text x="20" y="119" fill="#70e8ff" font-family="Arial" font-size="12">SYSTEM READY</text>
+  </g>
+
+  <g transform="translate(645,210)">
+    <rect width="250" height="135" rx="16" fill="#11161c" stroke="#303944"/>
+    <text x="20" y="31" fill="#84919d" font-family="Arial" font-size="11" letter-spacing="2">RESEARCH MODE</text>
+    <text x="20" y="68" fill="#f7f7f4" font-family="Arial" font-size="23" font-weight="700">EMBODIED AI</text>
+    <rect x="20" y="88" width="185" height="8" rx="4" fill="#1d252d"/>
+    <rect x="20" y="88" width="145" height="8" rx="4" fill="#f4b942"/>
+    <text x="20" y="119" fill="#f4b942" font-family="Arial" font-size="12">CURRENT LAP</text>
+  </g>
+
+  <g transform="translate(915,210)">
+    <rect width="365" height="135" rx="16" fill="#11161c" stroke="#303944"/>
+    <text x="20" y="31" fill="#84919d" font-family="Arial" font-size="11" letter-spacing="2">LIVE TELEMETRY</text>
+    <text x="20" y="67" fill="#f7f7f4" font-family="Arial" font-size="20" font-weight="700">BUILD // MEASURE // VALIDATE // SHIP</text>
+    <text x="20" y="98" fill="#70e8ff" font-family="Arial" font-size="14">SAN JOSE, CALIFORNIA</text>
+    <text x="20" y="121" fill="#84919d" font-family="Arial" font-size="12">HUMANOID ROBOTICS · JAX · FASTAPI · DATA</text>
+  </g>
+
+  <g transform="translate(105,380)">
+    <text x="0" y="0" fill="#82909d" font-family="Arial" font-size="11" letter-spacing="2">LAP TELEMETRY</text>
+
+    <circle cx="145" cy="-4" r="5" fill="#d9ff5b"/>
+    <text x="160" y="0" fill="#f7f7f4" font-family="Arial" font-size="12">100K+ DEVICES</text>
+
+    <circle cx="320" cy="-4" r="5" fill="#70e8ff"/>
+    <text x="335" y="0" fill="#f7f7f4" font-family="Arial" font-size="12">75+ VALIDATION FLOWS</text>
+
+    <circle cx="545" cy="-4" r="5" fill="#f4b942"/>
+    <text x="560" y="0" fill="#f7f7f4" font-family="Arial" font-size="12">30% FEWER FAILURES</text>
+
+    <circle cx="760" cy="-4" r="5" fill="#c88cff"/>
+    <text x="775" y="0" fill="#f7f7f4" font-family="Arial" font-size="12">4.0 GPA</text>
+  </g>
+</svg>
