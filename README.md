@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/f1_banner.svg" width="100%" alt="Drashti Shah F1 telemetry profile banner">
+  <img src="./f1_banner.svg" width="100%" alt="Drashti Shah F1 telemetry profile banner">
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/telemetry.svg" width="100%" alt="Engineering telemetry">
+  <img src="./telemetry.svg" width="100%" alt="Engineering telemetry">
 </p>
 
 ## RACE CONTROL
